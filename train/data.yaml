@@ -1,0 +1,10 @@
+names:
+  0: longitudinal crack
+  1: transverse crack
+  2: alligator crack
+  3: other corruption
+  4: pothole
+path: E:\projects\sadak-kadak\train\road_dataset
+test: images/test
+train: images/train
+val: images/val
